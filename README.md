@@ -1,27 +1,28 @@
 ## SB Admin 2 and Laravel8 Starter Project
 
-SB Admin 2 theam based Laravel8 starter project.  Installed libs:
+SB Admin 2 theam based Laravel8 starter project. Installed libs:
 
-- [SB Admin 2](https://startbootstrap.com/theme/sb-admin-2).
-- Bootstrap 4.
-- Datatable.
-- Fontawesome Free.
-- Jquery.
-- Jquery Easing.
+-   [SB Admin 2](https://startbootstrap.com/theme/sb-admin-2).
+-   Bootstrap 4.
+-   Datatable.
+-   Fontawesome Free.
+-   Jquery.
+-   Jquery Easing.
 
 ### Installation
 
-- Clone repository
-- run **composer update**
-- create .env file 
-- run **npm install**
+-   Clone repository
+-   run **composer update**
+-   create .env file
+-   run **npm install**
 
-## Demo Pages
+## Pages
 
-- Login Page('/')
-- Forgot Password Page('/forgot-password')
-- Datatable Page('/tables')
-- 404 page
+-   Login Page('/')
+-   Forgot Password Page('/forgot-password')
+-   Datatable Page('/tables')
+-   Components Page('/blade-components')
+-   404 page
 
 Refer webpack.mix.js, package.json files
 

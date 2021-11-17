@@ -24,3 +24,5 @@ Route::get('/forgot-password', function () {
 Route::get('/tables', function () {
     return view('tables');
 });
+
+Route::view('blade-components','blade_components',[]);
